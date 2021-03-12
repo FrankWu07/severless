@@ -1,0 +1,14 @@
+{
+    "Records":[
+        {
+            "s3":{
+                "bucket":{
+                    "name":"chao-mu-jiangren-development"
+                },
+                "object":{
+                    "key":"csv/WorldCup.csv"
+                }
+            }
+        }
+    ]
+}
